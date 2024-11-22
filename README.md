@@ -21,6 +21,8 @@ This project covers:
 1. Decision trees for interpretable classification using the **Acute Inflammations** dataset.
 2. Advanced regression techniques like Ridge Regression, LASSO, Principal Component Regression (PCR), and Boosting for the **Communities and Crime** dataset.
 
+This project was done as part of an assignment for my graduate Machine Learning course.
+
 ---
 
 ## Data
